@@ -7,6 +7,8 @@ This repository is for showing how Git and GitHub together
 
 ---------------------
 
+## HOW TO GO
+
 ## Deploy 
 
 ---------------------
