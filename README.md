@@ -14,3 +14,6 @@ This repository is for showing how Git and GitHub together
 Sample website with plenty of files for demos
 
 -------------------
+
+### Copyright
+2016 Git
