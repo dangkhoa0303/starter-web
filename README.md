@@ -9,4 +9,8 @@ This repository is for showing how Git and GitHub together
 
 ## Deploy 
 
+---------------------
+
 Sample website with plenty of files for demos
+
+-------------------
